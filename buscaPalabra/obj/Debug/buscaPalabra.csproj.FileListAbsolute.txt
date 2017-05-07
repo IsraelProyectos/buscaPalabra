@@ -30,3 +30,6 @@ C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.application
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.exe
 C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.pdb
+C:\Users\Israel\Source\Repos\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.exe.config
+C:\Users\Israel\Source\Repos\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.exe
+C:\Users\Israel\Source\Repos\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.pdb
