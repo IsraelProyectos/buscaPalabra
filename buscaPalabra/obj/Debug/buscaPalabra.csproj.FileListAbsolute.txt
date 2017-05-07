@@ -1,0 +1,32 @@
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\bin\Debug\buscaPalabra.exe.config
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\bin\Debug\buscaPalabra.exe
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\bin\Debug\buscaPalabra.pdb
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.csprojResolveAssemblyReference.cache
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.Form1.resources
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.Properties.Resources.resources
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.csproj.GenerateResource.Cache
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.exe
+C:\Users\Israel\AppData\Local\Temporary Projects\buscaPalabra\obj\Debug\buscaPalabra.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\misDatabases.bd
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\SQLite.Interop.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.exe.config
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.exe.manifest
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.application
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.exe
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\buscaPalabra.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\EntityFramework.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\System.Data.SQLite.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\EntityFramework.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\bin\Debug\System.Data.SQLite.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.Form1.resources
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.Properties.Resources.resources
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.csproj.GenerateResource.Cache
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.exe.manifest
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.application
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.exe
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\buscaPalabra\buscaPalabra\obj\Debug\buscaPalabra.pdb
