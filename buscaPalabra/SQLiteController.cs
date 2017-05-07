@@ -24,7 +24,6 @@ namespace buscaPalabra
             if (query == "Select")
             {
 
-                //hola
                 SQLiteParameter param = new SQLiteParameter();
                 //param.Value = query;
                 string cmdStr = "SELECT COUNT(*) FROM Dictionary where Words = '" + palabra + "';";
